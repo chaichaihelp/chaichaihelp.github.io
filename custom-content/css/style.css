@@ -1,3 +1,7 @@
 .outlet-location-link:hover {
   text-decoration: underline;
 }
+
+.chai-color-primary {
+  color: #57bd4c !important;
+}
